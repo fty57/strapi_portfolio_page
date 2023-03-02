@@ -3,7 +3,7 @@ import { Wrapper } from './styles';
 function Home() {
   return (
     <div className="App">
-      <Wrapper background="blue">
+      <Wrapper>
         <h1>Hello</h1>
       </Wrapper>
     </div>
